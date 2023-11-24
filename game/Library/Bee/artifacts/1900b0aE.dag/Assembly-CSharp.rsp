@@ -374,6 +374,7 @@
 "Assets/script/Inbattle.cs"
 "Assets/script/Loadscene.cs"
 "Assets/script/movement.cs"
+"Assets/script/TitleSceneScriot/TitleScript.cs"
 -langversion:9.0
 
 /deterministic
